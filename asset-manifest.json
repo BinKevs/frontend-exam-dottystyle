@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/frontend-exam-dottystyle/static/css/main.1301729e.css",
+    "main.js": "/frontend-exam-dottystyle/static/js/main.c9c5b686.js",
+    "static/js/787.05e81cd6.chunk.js": "/frontend-exam-dottystyle/static/js/787.05e81cd6.chunk.js",
+    "static/media/combined_section_bg.png": "/frontend-exam-dottystyle/static/media/combined_section_bg.e2b41e3bb01016322352.png",
+    "static/media/example.mp4": "/frontend-exam-dottystyle/static/media/example.7684fbc90d71d62f44d4.mp4",
+    "static/media/Photo_img.png": "/frontend-exam-dottystyle/static/media/Photo_img.bb24d1c8cedbe35ec79d.png",
+    "static/media/PR_img.png": "/frontend-exam-dottystyle/static/media/PR_img.0b995e6ec0462f5cb0ce.png",
+    "static/media/Social_img.png": "/frontend-exam-dottystyle/static/media/Social_img.a753a7fdc146354b0605.png",
+    "static/media/video_img.png": "/frontend-exam-dottystyle/static/media/video_img.62e3f93d3127178e7da1.png",
+    "static/media/close.png": "/frontend-exam-dottystyle/static/media/close.922c860c410c74724836.png",
+    "static/media/whitsunday_logo.png": "/frontend-exam-dottystyle/static/media/whitsunday_logo.0e49db2564623058d6b4.png",
+    "static/media/logo.svg": "/frontend-exam-dottystyle/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/frontend-exam-dottystyle/index.html",
+    "main.1301729e.css.map": "/frontend-exam-dottystyle/static/css/main.1301729e.css.map",
+    "main.c9c5b686.js.map": "/frontend-exam-dottystyle/static/js/main.c9c5b686.js.map",
+    "787.05e81cd6.chunk.js.map": "/frontend-exam-dottystyle/static/js/787.05e81cd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1301729e.css",
+    "static/js/main.c9c5b686.js"
+  ]
+}
